@@ -8,5 +8,5 @@ module.exports = {
     email : 'comdet.p@gmail.com',
     git : 'https://github.com/comdet/esp32-doit/',
     image : '/static/display.jpg',
-    version : '1.0.4'
+    version : '1.1.0'
 };
